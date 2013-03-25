@@ -8,5 +8,4 @@ last_name = gets.chomp
 puts "What's your age?"
 age = gets.chomp
 
-puts "Hi there!"
 puts "Hello #{first_name} #{last_name}, you are #{age}"
